@@ -37,6 +37,11 @@
                     "type": "boolean",
                     "default": false,
                     "description": "Show hidden files"
+                },
+                "path-intellisense.autoSlashAfterDirectory": {
+                    "type": "boolean",
+                    "default": false,
+                    "description": "Automatically add slash after directory"
                 }
             }
         }    
